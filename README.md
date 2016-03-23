@@ -15,7 +15,7 @@ clicking run in eclispe should work.
 
 ## How to deploy
  - Open the build.fxbuild
- - Go to the bottom and check "exe" for windows, or "deb" for linux. Not sure about mac...
+ - Go to the bottom and check "exe" for windows, or "deb" for linux, or "dmg" for mac
  - On the top right click "Generate ant build.xml only"
  - You should see a build directory created with build.xml in it
  - In eclipse, right click and do "run as" > "and build" (the first one)
